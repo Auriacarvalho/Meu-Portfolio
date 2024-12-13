@@ -1,0 +1,5 @@
+/portfolio
+    ├── index.html           # Página principal
+    ├── style.css            # Estilos da página
+    ├── script.js            # Animações e interatividade
+    └── README.md            # Documentação do projeto
