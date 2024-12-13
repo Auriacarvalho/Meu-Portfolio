@@ -13,6 +13,30 @@ Este portfólio tem como objetivo apresentar minha trajetória profissional, aca
 - **JavaScript** para interatividade e animações.
 - **Git** para controle de versão dos projetos.
 
+  ## Habilidades Técnicas
+
+- **Linguagens de Programação**: 
+  - **Python**: Utilizado para análise de dados, automação e scripts.
+  - **JavaScript**: Usado para interatividade e manipulação de páginas web.
+  - **PHP**: Desenvolvimento de websites dinâmicos e interação com bancos de dados.
+  
+- **Banco de Dados**: 
+  - **MySQL**: Sistema de gerenciamento de banco de dados, utilizado para armazenar e consultar dados em aplicações web.
+
+- **Desenvolvimento Web**: 
+  - **HTML**: Criação de estrutura de páginas web.
+  - **CSS**: Estilização e layout de páginas web.
+
+- **Ferramentas de Visualização**: 
+  - **Power BI**: Criação de dashboards e visualizações interativas de dados.
+
+- **Controle de Versionamento**: 
+  - **Git**: Controle de versões e colaboração em projetos de software.
+
+- **Softwares e Ferramentas**: 
+  - Ferramentas de análise e gestão de dados, além de ferramentas de desenvolvimento web.
+
+
 ## Seções do Portfólio
 
 ### 1. **Sobre Mim**
